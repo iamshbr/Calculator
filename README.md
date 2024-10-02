@@ -10,3 +10,6 @@ A minimalist calculator built with HTML, CSS, and JavaScript. Perfect for quick 
   <li>Responsive Design: Works well on various devices.</li>
   <li>Dark Mode: Toggle between light and dark themes.</li>
 </ul>
+
+You can view the live demo of the project here:
+[Live Demo](https://iamshbr.github.io/Calculator/)
